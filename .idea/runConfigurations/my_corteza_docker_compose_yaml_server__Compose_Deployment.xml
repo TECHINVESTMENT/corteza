@@ -1,0 +1,17 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="my-corteza/docker-compose.yaml.server: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" singleton="false" server-name="Docker">
+    <deployment type="docker-compose.yml">
+      <settings>
+        <option name="envFilePath" value="" />
+        <option name="services">
+          <list>
+            <option value="server" />
+          </list>
+        </option>
+        <option name="sourceFilePath" value="my-corteza/docker-compose.yaml" />
+        <option name="upDetach" value="false" />
+      </settings>
+    </deployment>
+    <method v="2" />
+  </configuration>
+</component>

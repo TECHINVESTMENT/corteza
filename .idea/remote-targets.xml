@@ -10,7 +10,7 @@
           </option>
           <option name="buildImageConfig">
             <BuildImageConfig>
-              <option name="dockerFile" value="$USER_HOME$/Documents/PMSFreelancer/Dockerfile" />
+              <option name="dockerFile" value="my-corteza/docker-compose.yaml" />
             </BuildImageConfig>
           </option>
         </config>
@@ -20,7 +20,7 @@
               <VolumeState>
                 <option name="targetSpecificBits">
                   <map>
-                    <entry key="mountAsVolume" value="true" />
+                    <entry key="mountAsVolume" value="false" />
                   </map>
                 </option>
               </VolumeState>
@@ -29,7 +29,7 @@
               <VolumeState>
                 <option name="targetSpecificBits">
                   <map>
-                    <entry key="mountAsVolume" value="true" />
+                    <entry key="mountAsVolume" value="false" />
                   </map>
                 </option>
               </VolumeState>
